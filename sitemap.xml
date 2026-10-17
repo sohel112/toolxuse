@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://toolxuse.vercel.app/base64.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/color-picker.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-compress.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-convert.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-crop.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-grayscale.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-resize.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/image-rotate.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/index.html</loc><priority>1.0</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/jpg-to-pdf.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/password-generator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-compress.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-extract-text.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-merge.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-metadata.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-pagenumber.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-protect.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-rotate.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-split.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-to-jpg.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-to-png.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/pdf-watermark.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/qr-generator.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/text-case.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://toolxuse.vercel.app/word-counter.html</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+</urlset>

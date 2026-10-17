@@ -1,0 +1,9 @@
+<!DOCTYPE html><html lang="en"><head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-966M1N4DNQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag("js", new Date());
+  gtag("config", "G-966M1N4DNQ");
+</script><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Word Counter Online Free — Count Words & Characters | PDFSetu</title><meta name="description" content="Count words, characters, sentences, paragraphs free. Live counting as you type. No signup."><link rel="stylesheet" href="css/light.css"></head><body><header><div class="wrap"><a class="logo" href="index.html">📄 PDF<span>Setu</span></a><nav><a href="index.html">Home</a></nav></div></header><main><a class="back" href="index.html">← All tools</a><div class="thead"><h1>Word Counter</h1><p>Count words, characters & more — live</p></div><div class="panel"><textarea id="txt" placeholder="Type or paste your text here..." style="min-height:220px"></textarea></div><div class="panel" id="stats" style="display:grid;grid-template-columns:repeat(2,1fr);gap:.8rem;text-align:center"></div></main><footer><p>📄 <b>PDFSetu</b> — 100% free, no signup.</p></footer><script> const txt=document.getElementById('txt'),stats=document.getElementById('stats'); txt.oninput=()=>{const t=txt.value,w=t.trim()?t.trim().split(/\s+/).length:0; const rows=[['Words',w],['Characters',t.length],['No spaces',t.replace(/\s/g,'').length],['Sentences',(t.match(/[.!?]+/g)||[]).length],['Paragraphs',t.trim()?t.trim().split(/\n+/).length:0],['Reading time',Math.ceil(w/200)+' min']]; stats.innerHTML=rows.map(r=>'<div style="background:#f8f9fa;border-radius:8px;padding:.8rem"><div style="font-size:1.5rem;font-weight:800;color:#e5322d">'+r[1]+'</div><div style="font-size:.85rem;color:#666">'+r[0]+'</div></div>').join('')}; txt.oninput(); </script></body></html> 
